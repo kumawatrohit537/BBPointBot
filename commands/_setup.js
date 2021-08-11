@@ -34,10 +34,10 @@ var panel = {
   fields: [
     {
       name: "ADMIN_ID",
-      title: "Admin ID",
+      title: "Rohit",
       description: "you can get your admin_id with BJS Bot.sendMessage(user.id)",
       type: "string",
-      placeholder: "your admin id",
+      placeholder: "982993410",
       // value: 100
     }
     // another fields here
@@ -65,7 +65,7 @@ var panel = {
       title: "Info chanell",
       description: "All transfers will be published in this chanell",
       type: "string",
-      placeholder: "@chanellName",
+      placeholder: "@hshshzhjs",
       icon: "notifications"
     }
   ]
@@ -90,11 +90,11 @@ var panel = {
   fields: [
     {
       name: "masterId",
-      title: "Master Telegram ID",
+      title: "982993410",
       description:
         "you can get your Master id with BJS Bot.sendMessage(user.telegramid)",
       type: "string",
-      placeholder: "master telegram id"
+      placeholder: "982993410"
     },
     {
       name: "maxLimit",
